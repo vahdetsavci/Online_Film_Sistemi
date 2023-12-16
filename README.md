@@ -11,7 +11,7 @@ Online film satan veya kiralayan uygulamanın sistemini tasarlamak.
 * Normal kullanıcılar ve aboneler film satın alabilirler.
 * Eğer film mevcut değil ise talep edilebilir.
 
-![gorsel](Online_Film_Sistemi.png)
+![gorsel](Online_Film_Sistemi.drawio.png)
 
 ## LICENSE
 [MIT](LICENSE)
